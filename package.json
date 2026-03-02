@@ -1,0 +1,25 @@
+{
+  "name": "aula-felipe",
+  "version": "1.0.0",
+  "description": "Repository about course of Felipe",
+  "homepage": "https://github.com/AlissonSouto7/aula-felipe#readme",
+  "bugs": {
+    "url": "https://github.com/AlissonSouto7/aula-felipe/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlissonSouto7/aula-felipe.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
